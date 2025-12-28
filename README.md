@@ -125,3 +125,6 @@ npm run dev
 
 **免责声明**: 本工具仅供学习交流使用。请勿用于拆解有版权保护的商业 PPT 模板并进行商业盈利。使用 AI 服务产生的费用由用户自行承担。
 **PPT 拆解大师** - 让 PPT 编辑更智能、更高效！ 🎉
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yyy-OPS/slidedeconstruct-ai&type=Date)](https://star-history.com/#yyy-OPS/slidedeconstruct-ai&Date)
